@@ -1,14 +1,14 @@
-import { Luckiest_Guy, Pacifico } from 'next/font/google'
-import { FiDroplet, FiDownloadCloud, FiFacebook, FiGithub, FiLinkedin, FiTwitter } from 'react-icons/fi'
+import { Luckiest_Guy&#44; Pacifico } from 'next/font/google'
+import { FiDroplet&#44; FiDownloadCloud&#44; FiFacebook&#44; FiGithub&#44; FiLinkedin&#44; FiTwitter } from 'react-icons/fi'
 import Link from "next/link";
-const luckiest = Luckiest_Guy({ subsets: ['latin'], weight: ['400'] })
-const pacifico = Pacifico({ subsets: ['latin'], weight: ['400'] })
+const luckiest = Luckiest_Guy({ subsets: ['latin']&#44; weight: ['400'] })
+const pacifico = Pacifico({ subsets: ['latin']&#44; weight: ['400'] })
 
 export default function About() {
     return (
         <main className='bg-white dark:bg-slate-700 w-full h-[36rem] rounded-3xl mt-2 p-7 md:p-14 overflow-hidden overflow-y-auto lg:overflow-y-hidden hover:overflow-y-auto hover:shadow-lg duration-700'>
             <h1 className={`capitalize font-bold text-4xl flex items-center gap-3 ${luckiest.className}`}>About Me <span className="text-6xl"></span></h1>
-            <p className="mt-4">Hello there! I&apos;m thrilled to welcome you to my portfolio. A versatile and accomplished professional with a solid foundation in tech support encompassing CRM and LMS Moodle administration, adept project management skills, fortified cybersecurity expertise, and comprehensive website management capabilities. With a proven track record in troubleshooting and customer support, I bring a holistic approach to technology operations. I possess a keen eye for optimizing systems, ensuring seamless functionality, and safeguarding against cyber threats. Thriving in dynamic environments, I leverage my multifaceted skill set to drive operational excellence and elevate technological landscapes.</p>
+            <p className="mt-4">Hello there! I&apos;m thrilled to welcome you to my portfolio. A versatile and accomplished professional with a solid foundation in tech support encompassing CRM and LMS Moodle administration&#44; adept project management skills&#44; fortified cybersecurity expertise&#44; and comprehensive website management capabilities. With a proven track record in troubleshooting and customer support&#44; I bring a holistic approach to technology operations. I possess a keen eye for optimizing systems&#44; ensuring seamless functionality&#44; and safeguarding against cyber threats. Thriving in dynamic environments&#44; I leverage my multifaceted skill set to drive operational excellence and elevate technological landscapes.</p>
 
             <div className="icons flex gap-3 mt-3 lg:hidden">
                 <Link href={'https://web.facebook.com/godson.azubuike.7'} target="_blank" className="bg-[#F2F7FC] dark:bg-slate-300 p-4 rounded-lg">
@@ -41,7 +41,7 @@ export default function About() {
                         <h6 className="font-bold text-2xl">Web Development</h6>
                     </div>
 
-                    <p className="text-sm">Proficient in web development with expertise in creating robust and user-centric websites. Skilled in front-end and back-end technologies, adept at crafting responsive layouts, implementing functionalities, and ensuring seamless user experiences. Experienced in utilizing various programming languages, frameworks, and tools to build scalable and dynamic web solutions aligned with business objectives..</p>
+                    <p className="text-sm">Proficient in web development with expertise in creating robust and user-centric websites. Skilled in front-end and back-end technologies&#44; adept at crafting responsive layouts&#44; implementing functionalities&#44; and ensuring seamless user experiences. Experienced in utilizing various programming languages&#44; frameworks&#44; and tools to build scalable and dynamic web solutions aligned with business objectives..</p>
                 </div>
 
                 <div className="bg-[#F2F7FC] dark:bg-slate-900 p-5 rounded-xl">
@@ -50,7 +50,7 @@ export default function About() {
                         <h6 className="font-bold text-2xl">Customer Relationship Management</h6>
                     </div>
 
-                    <p className="text-sm">Proficient in harnessing the power of Zoho CRM to drive seamless customer relationship management. Skilled in utilizing its robust features to streamline sales processes, optimize customer interactions, and enhance overall business efficiency. Capable of customizing and configuring Zoho CRM to meet unique organizational needs, maximizing its potential to boost sales, improve lead management, and foster lasting client relationships.</p>
+                    <p className="text-sm">Proficient in harnessing the power of Zoho CRM to drive seamless customer relationship management. Skilled in utilizing its robust features to streamline sales processes&#44; optimize customer interactions&#44; and enhance overall business efficiency. Capable of customizing and configuring Zoho CRM to meet unique organizational needs&#44; maximizing its potential to boost sales&#44; improve lead management&#44; and foster lasting client relationships.</p>
                 </div>
 
                 <div className="bg-[#F2F7FC] dark:bg-slate-900 p-5 rounded-xl">
@@ -59,7 +59,7 @@ export default function About() {
                         <h6 className="font-bold text-2xl">LMS Moodle Management</h6>
                     </div>
 
-                    <p className="text-sm">Proficient in LMS Moodle administration, adept at configuring, customizing, and maintaining the platform to facilitate engaging and effective online learning experiences. Skilled in course creation, user management, troubleshooting, and implementing innovative solutions to enhance educational outcomes. Demonstrated ability to streamline workflows, optimize user interfaces, and provide comprehensive support to ensure seamless functionality within the LMS Moodle environment.</p>
+                    <p className="text-sm">Proficient in LMS Moodle administration&#44; adept at configuring&#44; customizing&#44; and maintaining the platform to facilitate engaging and effective online learning experiences. Skilled in course creation&#44; user management&#44; troubleshooting&#44; and implementing innovative solutions to enhance educational outcomes. Demonstrated ability to streamline workflows&#44; optimize user interfaces&#44; and provide comprehensive support to ensure seamless functionality within the LMS Moodle environment.</p>
                 </div>
 
                 <div className="bg-[#FFEBD1] p-5 rounded-xl">
@@ -77,7 +77,7 @@ export default function About() {
                         <h6 className="font-bold text-2xl">Website Management</h6>
                     </div>
 
-                    <p className="text-sm">Proficient in website management, adept at overseeing the creation, maintenance, and optimization of online platforms. Skilled in ensuring seamless functionality, user-friendly interfaces, and responsive design. Capable of implementing strategies to enhance user experience, drive traffic, and improve site performance. </p>
+                    <p className="text-sm">Proficient in website management&#44; adept at overseeing the creation&#44; maintenance&#44; and optimization of online platforms. Skilled in ensuring seamless functionality&#44; user-friendly interfaces&#44; and responsive design. Capable of implementing strategies to enhance user experience&#44; drive traffic&#44; and improve site performance. </p>
                 </div>
 
                 <div className="bg-[#F2F7FC] dark:bg-slate-900 p-5 rounded-xl">
@@ -86,7 +86,7 @@ export default function About() {
                         <h6 className="font-bold text-2xl">Cyber Security</h6>
                     </div>
 
-                    <p className="text-sm">"Proficient in cybersecurity practices encompassing threat assessment, risk mitigation, and incident response. Well versed in implementing robust security measures to safeguard digital assets, networks, and systems.</p>
+                    <p className="text-sm">"Proficient in cybersecurity practices encompassing threat assessment&#44; risk mitigation&#44; and incident response. Well versed in implementing robust security measures to safeguard digital assets&#44; networks &#44;and systems.</p>
                 </div>
             </div>
         </main>
