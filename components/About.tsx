@@ -86,7 +86,7 @@ export default function About() {
                         <h6 className="font-bold text-2xl">Cyber Security</h6>
                     </div>
 
-                    <p className="text-sm">"Proficient in cybersecurity practices encompassing threat assessment, risk mitigation, and incident response. Well-versed in implementing robust security measures to safeguard digital assets, networks, and systems.</p>
+                    <p className="text-sm">"Proficient in cybersecurity practices encompassing threat assessment, risk mitigation, and incident response. Well versed in implementing robust security measures to safeguard digital assets, networks, and systems.</p>
                 </div>
             </div>
         </main>
