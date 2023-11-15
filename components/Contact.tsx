@@ -15,7 +15,7 @@ const Contact = () => {
     const sendEmail: FormEventHandler<HTMLFormElement> = (e) => {
         e.preventDefault();
 
-        emailjs.sendForm('service_w75yzjp', 'template_bathl5q', form.current, 'P2w6wEwYIAeZK8r1g')
+        emailjs.sendForm('service_e0pb1g5', 'template_oljq6x7', form.current, 'dgX-M4i_8BG5nOxVR')
             .then((result) => {
                 setAlertState(true)
                 form.current.reset()
