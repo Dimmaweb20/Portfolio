@@ -14,12 +14,12 @@ const Work = () => {
 
             <div className="grid lg:grid-cols-3 gap-5 mt-5">
                 <div className="bg-[#FFEBD1] p-5 rounded-xl">
-                    <Image className='hover:scale-150 transition duration-500 rounded-lg mb-4' src={'/factapp.png'} width={10000} height={2} alt='Fact App' />
+                    <Image className='hover:scale-150 transition duration-500 rounded-lg mb-4' src={'/Screenshot.png'} width={10000} height={2} alt='Fact App' />
 
                     <div className="flex justify-between items-center">
                         <div className="top mt-2 flex items-center gap-2 hover:translate-y-1 transition duration-700 hover:-skew-x-6">
                             <FiLink2 size={22} />
-                            <Link href={'https://strangefacts.netlify.app'} target='_blank' className="font-bold text-lg">Fact Application</Link>
+                            <Link href={'https://home-sideprojects.com/'} target='_blank' className="font-bold text-lg">Fact Application</Link>
                         </div>
 
                         <Link href={'https://github.com/godson-pius/facts'} target='_blank'>
