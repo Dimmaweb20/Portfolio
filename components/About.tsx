@@ -1,8 +1,8 @@
-import { Luckiest_Guy&#44; Pacifico } from 'next/font/google'
-import { FiDroplet&#44; FiDownloadCloud&#44; FiFacebook&#44; FiGithub&#44; FiLinkedin&#44; FiTwitter } from 'react-icons/fi'
+import { Luckiest_Guy, Pacifico } from 'next/font/google'
+import { FiDroplet, FiDownloadCloud, FiFacebook, FiGithub, FiLinkedin, FiTwitter } from 'react-icons/fi'
 import Link from "next/link";
-const luckiest = Luckiest_Guy({ subsets: ['latin']&#44; weight: ['400'] })
-const pacifico = Pacifico({ subsets: ['latin']&#44; weight: ['400'] })
+const luckiest = Luckiest_Guy({ subsets: ['latin'], weight: ['400'] })
+const pacifico = Pacifico({ subsets: ['latin'], weight: ['400'] })
 
 export default function About() {
     return (
