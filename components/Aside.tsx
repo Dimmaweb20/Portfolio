@@ -37,7 +37,7 @@ export default function Aside() {
                     <FiPhone className='text-red-500' />
                     <div className="text-sm">
                         <p className="text-xs text-gray-500">Phone</p>
-                        <p>+2347037318027</p>
+                        <p>+234 703 731 8027</p>
                     </div>
                 </div>
 
@@ -45,7 +45,7 @@ export default function Aside() {
                     <FiMail className='text-orange-500' />
                     <div className="text-sm">
                         <p className="text-xs text-gray-500">Email</p>
-                        <p>chidimmabc@gmail.com</p>
+                        <p>umeayobc@gmail.com</p>
                     </div>
                 </div>
 
