@@ -22,9 +22,7 @@ const Work = () => {
                             <Link href={'https://home-sideprojects.com/'} target='_blank' className="font-bold text-lg">Home-Side Projects</Link>
                         </div>
 
-                        <Link href={'https://home-sideprojects.com/'} target='_blank'>
-                            <FiGithub className='ring-2 ring-black p-1 rounded-full' size={30} />
-                        </Link>
+                        <Link href={'https://home-sideprojects.com/'} target='_blank'></Link>
                     </div>
                 </div>
 
@@ -38,9 +36,7 @@ const Work = () => {
                             <Link href={'https://anchorregnant.com/'} target='_blank' className="font-bold text-lg">Anchor Regnant</Link>
                         </div>
 
-                        <Link href={'https://anchorregnant.com/'} target='_blank'>
-                            <FiGithub className='ring-2 ring-black p-1 rounded-full' size={30} />
-                        </Link>
+                        <Link href={'https://anchorregnant.com/'} target='_blank'></Link>
                     </div>
                 </div>
 
@@ -54,9 +50,7 @@ const Work = () => {
                             <Link href={'https://geancomissions.org'} target='_blank' className="font-bold text-lg">GEANCO Missions</Link>
                         </div>
 
-                        <Link href={'https://geancomissions.org'} target='_blank'>
-                            <FiGithub className='ring-2 ring-black p-1 rounded-full' size={30} />
-                        </Link>
+                        <Link href={'https://geancomissions.org'} target='_blank'></Link>
                     </div>
                 </div>
                 
@@ -70,9 +64,7 @@ const Work = () => {
                             <Link href={'https://ckcanglican.church/'} target='_blank' className="font-bold text-lg">CKC Anglican church US</Link>
                         </div>
 
-                        <Link href={'https://ckcanglican.church/'} target='_blank'>
-                            <FiGithub className='ring-2 ring-black p-1 rounded-full' size={30} />
-                        </Link>
+                        <Link href={'https://ckcanglican.church/'} target='_blank'></Link>
                     </div>
                 </div>
 

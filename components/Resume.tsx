@@ -33,10 +33,10 @@ export default function Resume() {
                 <div className="bg-[#F2F7FC] dark:bg-slate-900 p-5 rounded-xl">
                     <div className="top mb-1 flex items-center gap-2">
                         <FiPocket size={25} />
-                        <h6 className="font-bold text-2xl">Web Design  - Wordpress</h6>
+                        <h6 className="font-bold text-2xl">Wordpress</h6>
                     </div>
 
-                    <p className="text-sm">React is a free and open-source front-end JavaScript library for building user interfaces based on components. It is maintained by Meta and a community of individual developers and companies. React can be used to develop single-page, mobile, or server-rendered applications with frameworks like Next.js</p>
+                    <p className="text-sm">WordPress is a user-friendly and versatile content management system CMS that powers a significant portion of websites globally. It offers a flexible platform for creating&#44; managing&#44; and customizing websites&#44; making it ideal for beginners and experienced users alike. With its extensive range of themes&#44; plugins&#44; and easy-to-use interface&#44; WordPress enables users to build anything from simple blogs to complex e-commerce sites efficiently. </p>
                 </div>
 
                 <div className="bg-[#F2F7FC] dark:bg-slate-900 p-5 rounded-xl">
@@ -51,10 +51,10 @@ export default function Resume() {
                 <div className="bg-[#FFEBD1] p-5 rounded-xl">
                     <div className="top mb-1 flex items-center gap-2">
                         <FiPocket size={25} />
-                        <h6 className="font-bold text-2xl">Tech Support</h6>
+                        <h6 className="font-bold text-2xl">Cyber Security</h6>
                     </div>
 
-                    <p className="text-sm">Git is a distributed version control system that tracks changes in any set of computer files, usually used for coordinating work among programmers collaboratively developing source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows.</p>
+                    <p className="text-sm">Cybersecurity involves protecting digital systems&#44; networks&#44; and data from unauthorized access&#44; cyber threats&#44; and attacks. It encompasses the implementation of measures to safeguard information&#44; mitigate risks&#44; and ensure the confidentiality&#44; integrity&#44; and availability of sensitive data. </p>
                 </div>
 
                 <div className="bg-[#F2F7FC] dark:bg-slate-900 p-5 rounded-xl">
@@ -63,7 +63,7 @@ export default function Resume() {
                         <h6 className="font-bold text-2xl">ZOHO CRM</h6>
                     </div>
 
-                    <p className="text-sm">MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas.</p>
+                    <p className="text-sm">Zoho CRM is a robust customer relationship management CRM software designed to streamline sales&#44; marketing&#44; and customer support activities. It offers a user-friendly interface powerful customization options&#44; and automation features that enable businesses to manage leads&#44; contacts&#44; deals&#44; and accounts effectively. </p>
                 </div>
 
                 <div className="bg-[#FFEBD1] p-5 rounded-xl">
@@ -81,17 +81,19 @@ export default function Resume() {
                         <h6 className="font-bold text-2xl">Office Productivity Tools</h6>
                     </div>
 
-                    <p className="text-sm">The MySQLi Extension (MySQL Improved) is a relational database driver used in the PHP scripting language to provide an interface with MySQL databases.</p>
+                    <p className="text-sm">Proficient in utilizing a diverse range of office productivity tools, including Microsoft Office Suite (Word&#44; Excel&#44; PowerPoint)&#44; Google Workspace (Docs&#44; Sheets&#44; Slides&#44; Gmail)&#44; and collaborative platforms like Microsoft Teams. Skilled in creating and formatting documents&#44; analyzing data&#44; designing presentations&#44; managing emails&#44; and fostering efficient team collaboration through these tools.</p>
                 </div>
 
-                <div className="bg-[#FFEBD1] p-5 rounded-xl">
+                <div className="bg-[#F2F7FC] dark:bg-slate-900 p-5 rounded-xl">
                     <div className="top mb-1 flex items-center gap-2">
                         <FiPocket size={25} />
-                        <h6 className="font-bold text-2xl">Tech Support</h6>
+                        <h6 className="font-bold text-2xl">Project Managemen&#44; Grant Writing and Project Planning</h6>
                     </div>
 
-                    <p className="text-sm">React Native is an open-source UI software framework created by Meta Platforms, Inc. It is used to develop applications for Android, Android TV, iOS, macOS, tvOS, Web, Windows and UWP by enabling developers to use the React framework along with native platform capabilities.</p>
+                    <p className="text-sm">Project Management encompasses the strategic planning, coordination, and oversight of projects to meet specific objectives within defined constraints. Grant Writing involves composing persuasive proposals to secure funding for projects or initiatives. Project Planning is the initial phase of management, outlining objectives, creating schedules, and strategizing for successful project completion.</p>
                 </div>
+
+
             </div>
         </main>
     )
