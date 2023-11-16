@@ -27,7 +27,7 @@ export default function Resume() {
                         <h6 className="font-bold text-2xl">Grant Writing and Proposal</h6>
                     </div>
 
-                    <p className="text-sm">Next.js is an open-source web development framework created by the private company Vercel providing React-based web applications with server-side rendering and static website generation.</p>
+                    <p className="text-sm">Grant Writing involves composing persuasive proposals to secure funding for projects or initiatives. Project Planning is the initial phase of management, outlining objectives, creating schedules, and strategizing for successful project completion.</p>
                 </div>
 
                 <div className="bg-[#F2F7FC] dark:bg-slate-900 p-5 rounded-xl">
@@ -87,10 +87,10 @@ export default function Resume() {
                 <div className="bg-[#F2F7FC] dark:bg-slate-900 p-5 rounded-xl">
                     <div className="top mb-1 flex items-center gap-2">
                         <FiPocket size={25} />
-                        <h6 className="font-bold text-2xl">Project Managemen&#44; Grant Writing and Project Planning</h6>
+                        <h6 className="font-bold text-2xl">Project Managemen</h6>
                     </div>
 
-                    <p className="text-sm">Project Management encompasses the strategic planning, coordination, and oversight of projects to meet specific objectives within defined constraints. Grant Writing involves composing persuasive proposals to secure funding for projects or initiatives. Project Planning is the initial phase of management, outlining objectives, creating schedules, and strategizing for successful project completion.</p>
+                    <p className="text-sm">Project Management encompasses the strategic planning, coordination, and oversight of projects to meet specific objectives within defined constraints.</p>
                 </div>
 
 

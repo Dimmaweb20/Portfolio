@@ -9,7 +9,7 @@ export default function Aside() {
     return (
         <main className="h-[37rem] bg-white dark:bg-slate-700 w-80 rounded-3xl lg:flex flex-col justify-center items-center px-5 hidden">
             {/* Image */}
-            <div className="pimage w-40 h-40 bg-[#FF9C1A] -mt-32 rounded-2xl" style={{ backgroundImage: 'url(/Benita.jpg)', backgroundPosition: 'center', backgroundRepeat: 'no-repeat', backgroundSize: 'cover' }}>
+            <div className="pimage w-40 h-40 bg-[#FF9C1A] -mt-32 rounded-2xl" style={{ backgroundImage: 'url(/proflie.jpg)', backgroundPosition: 'center', backgroundRepeat: 'no-repeat', backgroundSize: 'cover' }}>
 
             </div>
 
@@ -18,17 +18,14 @@ export default function Aside() {
             <p className="text-sm mt-5 text-gray-400">Technical Support</p>
 
             <div className="icons flex gap-3 mt-3">
-                <Link href={'https://web.facebook.com/godson.azubuike.7'} target="_blank" className="bg-[#F2F7FC] dark:bg-slate-300 p-4 rounded-lg">
+                <Link href={'https://web.facebook.com/umeayo.chidimma'} target="_blank" className="bg-[#F2F7FC] dark:bg-slate-300 p-4 rounded-lg">
                     <FiFacebook size={16} className='text-blue-500' />
                 </Link>
-                <Link href={'https://www.linkedin.com/in/godson-azubuike-9b462b1b1'} target="_blank" className="bg-[#F2F7FC] dark:bg-slate-300 p-4 rounded-lg">
+                <Link href={'https://www.linkedin.com/in/chidimma-umeayo-17b150211/'} target="_blank" className="bg-[#F2F7FC] dark:bg-slate-300 p-4 rounded-lg">
                     <FiLinkedin size={16} className='text-sky-500' />
                 </Link>
                 <Link href={'https://twitter.com/azubuike_godson'} target="_blank" className="bg-[#F2F7FC] dark:bg-slate-300 p-4 rounded-lg">
                     <FiTwitter size={16} className='text-indigo-500' />
-                </Link>
-                <Link href={'https://github.com/godson-pius'} target="_blank" className="bg-[#F2F7FC] dark:bg-slate-300 p-4 rounded-lg">
-                    <FiGithub size={16} className='text-black' />
                 </Link>
             </div>
 
@@ -60,7 +57,7 @@ export default function Aside() {
                 <div className="w-full flex justify-center">
                     <button className="w-44 mt-4 flex items-center gap-2 p-3 bg-gradient-to-r from-[#FF9C1A] to-[#EC1B09] rounded-full justify-center text-[#F2F5F9] text-sm hover:scale-105 hover:shadow-lg border-2 duration-700">
                         <FiDownloadCloud className='text-white' />
-                        <Link href={'/GodsonAzubuike.pdf'} target="_blank" className="capitalize rounded-full text-sm">Download Resume</Link>
+                        <Link href={'/Resume.pdf'} target="_blank" className="capitalize rounded-full text-sm">Download Resume</Link>
                     </button>
                 </div>
             </div>
