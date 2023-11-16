@@ -24,7 +24,7 @@ export default function Aside() {
                 <Link href={'https://www.linkedin.com/in/chidimma-umeayo-17b150211/'} target="_blank" className="bg-[#F2F7FC] dark:bg-slate-300 p-4 rounded-lg">
                     <FiLinkedin size={16} className='text-sky-500' />
                 </Link>
-                <Link href={'https://twitter.com/azubuike_godson'} target="_blank" className="bg-[#F2F7FC] dark:bg-slate-300 p-4 rounded-lg">
+                <Link href={'https://twitter.com/chidimma Umeayo'} target="_blank" className="bg-[#F2F7FC] dark:bg-slate-300 p-4 rounded-lg">
                     <FiTwitter size={16} className='text-indigo-500' />
                 </Link>
             </div>
