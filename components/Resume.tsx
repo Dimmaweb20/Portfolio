@@ -87,7 +87,7 @@ export default function Resume() {
                 <div className="bg-[#F2F7FC] dark:bg-slate-900 p-5 rounded-xl">
                     <div className="top mb-1 flex items-center gap-2">
                         <FiPocket size={25} />
-                        <h6 className="font-bold text-2xl">Project Managemen</h6>
+                        <h6 className="font-bold text-2xl">Project Management</h6>
                     </div>
 
                     <p className="text-sm">Project Management encompasses the strategic planning, coordination, and oversight of projects to meet specific objectives within defined constraints.</p>
