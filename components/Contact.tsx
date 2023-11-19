@@ -52,7 +52,7 @@ const Contact = () => {
                         <h6 className="font-bold text-md lg:text-2xl">Email:</h6>
                     </div>
 
-                    <p className="text-sm ml-8">meayobc@gmail.com</p>
+                    <p className="text-sm ml-8">umeayobc@gmail.com</p>
                 </div>
             </div>
 

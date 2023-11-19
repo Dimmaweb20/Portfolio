@@ -11,17 +11,14 @@ export default function About() {
             <p className="mt-4">Hello there! I&apos;m thrilled to welcome you to my portfolio.  I am a Technical Operations Manager with a successful background in orchestrating complex technical environments. Proficient in managing diverse areas including CRM, LMS Moodle, project oversight, cybersecurity, and website administration.  open to an opportunity to leverage this diverse skill set in enhancing organizational performance and fostering sustained growth.</p>
 
             <div className="icons flex gap-3 mt-3 lg:hidden">
-                <Link href={'https://web.facebook.com/godson.azubuike.7'} target="_blank" className="bg-[#F2F7FC] dark:bg-slate-300 p-4 rounded-lg">
+                <Link href={'https://web.facebook.com/umeayo.chidimma'} target="_blank" className="bg-[#F2F7FC] dark:bg-slate-300 p-4 rounded-lg">
                     <FiFacebook size={16} className='text-blue-500' />
                 </Link>
-                <Link href={'https://www.linkedin.com/in/godson-azubuike-9b462b1b1'} target="_blank" className="bg-[#F2F7FC] dark:bg-slate-300 p-4 rounded-lg">
+                <Link href={'https://www.linkedin.com/in/chidimma-umeayo-17b150211/'} target="_blank" className="bg-[#F2F7FC] dark:bg-slate-300 p-4 rounded-lg">
                     <FiLinkedin size={16} className='text-sky-500' />
                 </Link>
-                <Link href={'https://twitter.com/azubuike_godson'} target="_blank" className="bg-[#F2F7FC] dark:bg-slate-300 p-4 rounded-lg">
+                <Link href={'https://twitter.com/chidimma-umeayo'} target="_blank" className="bg-[#F2F7FC] dark:bg-slate-300 p-4 rounded-lg">
                     <FiTwitter size={16} className='text-indigo-500' />
-                </Link>
-                <Link href={'https://github.com/godson-pius'} target="_blank" className="bg-[#F2F7FC] dark:bg-slate-300 p-4 rounded-lg">
-                    <FiGithub size={16} className='text-black' />
                 </Link>
             </div>
 
