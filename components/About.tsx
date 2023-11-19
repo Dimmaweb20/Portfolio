@@ -24,7 +24,7 @@ export default function About() {
 
             <button className="w-44 mt-4 flex items-center gap-2 p-3 bg-gray-500 lg:hidden rounded-full justify-center text-[#F2F5F9] text-sm hover:scale-105 hover:shadow-lg border-2 duration-700">
                 <FiDownloadCloud className='text-white' />
-                <Link href={'/GodsonAzubuike.pdf'} target="_blank" className="capitalize rounded-full text-sm">Download Resume</Link>
+                <Link href={'/Resume.pdf'} target="_blank" className="capitalize rounded-full text-sm">Download Resume</Link>
             </button>
 
             <hr className="my-6" />
