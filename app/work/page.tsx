@@ -1,3 +1,5 @@
+"use client";
+
 import Aside from "@/components/Aside"
 import Work from "@/components/Work"
 import pageanim from '@/animations/pageanim.json'

@@ -1,3 +1,5 @@
+"use client";
+
 import Aside from "@/components/Aside"
 import Contact from "@/components/Contact"
 import Loader from "@/components/Loader"

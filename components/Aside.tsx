@@ -1,3 +1,5 @@
+"use client";
+
 import Image from "next/image";
 import { FiDownloadCloud, FiFacebook, FiGithub, FiLinkedin, FiMail, FiMapPin, FiPhone, FiTwitter } from 'react-icons/fi'
 import { Luckiest_Guy, Pacifico } from 'next/font/google'

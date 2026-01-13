@@ -1,3 +1,5 @@
+"use client";
+
 import Aside from "@/components/Aside"
 import Loader from "@/components/Loader"
 import musicanim from '@/animations/musicanim.json'
