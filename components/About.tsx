@@ -8,18 +8,14 @@ export default function About() {
     return (
         <main className='bg-white dark:bg-slate-700 w-full h-[36rem] rounded-3xl mt-2 p-7 md:p-14 overflow-hidden overflow-y-auto lg:overflow-y-hidden hover:overflow-y-auto hover:shadow-lg duration-700'>
             <h1 className={`capitalize font-bold text-4xl flex items-center gap-3 ${luckiest.className}`}>About Me <span className="text-6xl"></span></h1>
-            <p className="mt-4">Hello there! I&apos;m thrilled to welcome you to my portfolio.  I am a Technical Operations Manager with a successful background in orchestrating complex technical environments. Proficient in managing diverse areas including CRM, LMS Moodle, project oversight, cybersecurity, and website administration.  open to an opportunity to leverage this diverse skill set in enhancing organizational performance and fostering sustained growth.</p>
+            <p className="mt-4">Hello there! I&apos;m thrilled to welcome you to my portfolio.  I am a Technical Operations Manager with a successful background in orchestrating complex technical environments. Proficient in managing diverse areas including CRM, LMS Moodle, project oversight, cybersecurity, website design and administration.  open to an opportunity to leverage this diverse skill set in enhancing organizational performance and fostering sustained growth.</p>
 
             <div className="icons flex gap-3 mt-3 lg:hidden">
-                <Link href={'https://web.facebook.com/umeayo.chidimma'} target="_blank" className="bg-[#F2F7FC] dark:bg-slate-300 p-4 rounded-lg">
-                    <FiFacebook size={16} className='text-blue-500' />
-                </Link>
+                
                 <Link href={'https://www.linkedin.com/in/chidimma-umeayo-17b150211/'} target="_blank" className="bg-[#F2F7FC] dark:bg-slate-300 p-4 rounded-lg">
                     <FiLinkedin size={16} className='text-sky-500' />
                 </Link>
-                <Link href={'https://twitter.com/chidimma-umeayo'} target="_blank" className="bg-[#F2F7FC] dark:bg-slate-300 p-4 rounded-lg">
-                    <FiTwitter size={16} className='text-indigo-500' />
-                </Link>
+               
             </div>
 
             <button className="w-44 mt-4 flex items-center gap-2 p-3 bg-gray-500 lg:hidden rounded-full justify-center text-[#F2F5F9] text-sm hover:scale-105 hover:shadow-lg border-2 duration-700">

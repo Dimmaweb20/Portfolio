@@ -18,15 +18,11 @@ export default function Aside() {
             <p className="text-sm mt-5 text-gray-400">Technical Support</p>
 
             <div className="icons flex gap-3 mt-3">
-                <Link href={'https://web.facebook.com/umeayo.chidimma'} target="_blank" className="bg-[#F2F7FC] dark:bg-slate-300 p-4 rounded-lg">
-                    <FiFacebook size={16} className='text-blue-500' />
-                </Link>
+                
                 <Link href={'https://www.linkedin.com/in/chidimma-umeayo-17b150211/'} target="_blank" className="bg-[#F2F7FC] dark:bg-slate-300 p-4 rounded-lg">
                     <FiLinkedin size={16} className='text-sky-500' />
                 </Link>
-                <Link href={'https://twitter.com/chidimma Umeayo'} target="_blank" className="bg-[#F2F7FC] dark:bg-slate-300 p-4 rounded-lg">
-                    <FiTwitter size={16} className='text-indigo-500' />
-                </Link>
+
             </div>
 
             <div className="bg-[#F2F7FC] dark:bg-slate-900 w-full mt-4 p-5 flex flex-col items-start rounded-2xl divide-y">
@@ -42,7 +38,7 @@ export default function Aside() {
                     <FiMail className='text-orange-500' />
                     <div className="text-sm">
                         <p className="text-xs text-gray-500">Email</p>
-                        <p>umeayobc@gmail.com</p>
+                        <p>chidimaumeayo@gmail.com</p>
                     </div>
                 </div>
 
